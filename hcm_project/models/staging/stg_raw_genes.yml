@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: stg_raw_genes
+    description: "Staging model for raw gene data"
+    columns:
+      - name: id
+        tests:
+          - unique
+          - not_null
+      - name: gene_symbol
+        tests:
+          - not_null
+          - unique
+      - name: confidence_level
+        tests:
+          - not_null
+      - name: ensembl_id
+        tests:
+          - not_null
+      - name: uniprot_id
+        tests:
+          - not_null

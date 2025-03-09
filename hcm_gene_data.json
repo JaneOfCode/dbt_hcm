@@ -1,0 +1,1324 @@
+[
+    {
+        "gene_symbol": "ACADVL",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000072778",
+        "chromosome": "17",
+        "ncbi_description": "",
+        "uniprot_id": "P49748",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305",
+                    "source": "PubMed",
+                    "id": "7668252"
+                }
+            ],
+            "value": "Very long-chain specific acyl-CoA dehydrogenase, mitochondrial"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "ACTA1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000143632",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "P68133",
+        "protein_name": {
+            "value": "Actin, alpha skeletal muscle"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "ACTC1",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000159251",
+        "chromosome": "15",
+        "ncbi_description": "",
+        "uniprot_id": "P68032",
+        "protein_name": {
+            "value": "Actin, alpha cardiac muscle 1"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "ACTN2",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000077522",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "P35609",
+        "protein_name": {
+            "value": "Alpha-actinin-2"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "AGL",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000162688",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "P35573",
+        "protein_name": {
+            "value": "Glycogen debranching enzyme"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Glycogen storage disease"
+        ]
+    },
+    {
+        "gene_symbol": "ALPK3",
+        "confidence_level": "3",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000136383",
+        "chromosome": "15",
+        "ncbi_description": "",
+        "uniprot_id": "Q96L96",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Alpha-protein kinase 3"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "ANKRD1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000148677",
+        "chromosome": "10",
+        "ncbi_description": "",
+        "uniprot_id": "Q15327",
+        "protein_name": {
+            "value": "Ankyrin repeat domain-containing protein 1"
+        },
+        "associated_diseases": []
+    },
+    {
+        "gene_symbol": "ATAD3A",
+        "confidence_level": "2",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000197785",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "Q9NVI7",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "ATPase family AAA domain-containing protein 3A"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "ATP5E",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "uniprot_id": "P56381",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "ATP synthase subunit epsilon, mitochondrial"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "BRAF",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000157764",
+        "chromosome": "7",
+        "ncbi_description": "",
+        "uniprot_id": "P15056",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Serine/threonine-protein kinase B-raf"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "CACNA1C",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000151067",
+        "chromosome": "12",
+        "ncbi_description": "",
+        "uniprot_id": "Q13936",
+        "protein_name": {
+            "value": "Voltage-dependent L-type calcium channel subunit alpha-1C"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "CALR3",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "ensembl_id": "ENSG00000269058",
+        "chromosome": "19",
+        "ncbi_description": "",
+        "uniprot_id": "Q96L12",
+        "protein_name": {
+            "value": "Calreticulin-3"
+        },
+        "associated_diseases": []
+    },
+    {
+        "gene_symbol": "CASQ2",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000118729",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "O14958",
+        "protein_name": {
+            "value": "Calsequestrin-2"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "CAV3",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000182533",
+        "chromosome": "3",
+        "ncbi_description": "",
+        "uniprot_id": "P56539",
+        "protein_name": {
+            "value": "Caveolin-3"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "COA5",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000183513",
+        "chromosome": "2",
+        "ncbi_description": "",
+        "uniprot_id": "Q86WW8",
+        "protein_name": {
+            "value": "Cytochrome c oxidase assembly factor 5"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "CRYAB",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000109846",
+        "chromosome": "11",
+        "ncbi_description": "",
+        "uniprot_id": "P02511",
+        "protein_name": {
+            "value": "Alpha-crystallin B chain"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "CSRP3",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000129170",
+        "chromosome": "11",
+        "ncbi_description": "",
+        "uniprot_id": "P50461",
+        "protein_name": {
+            "value": "Cysteine and glycine-rich protein 3"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "DES",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000175084",
+        "chromosome": "2",
+        "ncbi_description": "",
+        "uniprot_id": "P17661",
+        "protein_name": {
+            "value": "Desmin"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "FHL1",
+        "confidence_level": "3",
+        "mode_of_inheritance": "X-LINKED: hemizygous mutation in males, biallelic mutations in females",
+        "ensembl_id": "ENSG00000022267",
+        "chromosome": "X",
+        "ncbi_description": "",
+        "uniprot_id": "Q13642",
+        "protein_name": {
+            "value": "Four and a half LIM domains protein 1"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "FHOD3",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown",
+        "ensembl_id": "ENSG00000134775",
+        "chromosome": "18",
+        "ncbi_description": "",
+        "uniprot_id": "Q2V2M9",
+        "protein_name": {
+            "value": "FH1/FH2 domain-containing protein 3"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "FLNC",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000128591",
+        "chromosome": "7",
+        "ncbi_description": "",
+        "uniprot_id": "Q14315",
+        "protein_name": {
+            "value": "Filamin-C"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "FOXRED1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "ensembl_id": "ENSG00000110074",
+        "chromosome": "11",
+        "ncbi_description": "",
+        "uniprot_id": "Q96CU9",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000312",
+                    "source": "HGNC",
+                    "id": "HGNC:26927"
+                }
+            ],
+            "value": "FAD-dependent oxidoreductase domain-containing protein 1"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "FXN",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000165060",
+        "chromosome": "9",
+        "ncbi_description": "",
+        "uniprot_id": "Q16595",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "18725397"
+                }
+            ],
+            "value": "Frataxin, mitochondrial"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "GAA",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000171298",
+        "chromosome": "17",
+        "ncbi_description": "",
+        "uniprot_id": "P10253",
+        "protein_name": {
+            "value": "Lysosomal alpha-glucosidase"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Glycogen storage disease"
+        ]
+    },
+    {
+        "gene_symbol": "GLA",
+        "confidence_level": "3",
+        "mode_of_inheritance": "X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)",
+        "ensembl_id": "ENSG00000102393",
+        "chromosome": "X",
+        "ncbi_description": "",
+        "uniprot_id": "P06280",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Alpha-galactosidase A"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "GLB1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000170266",
+        "chromosome": "3",
+        "ncbi_description": "",
+        "uniprot_id": "P16278",
+        "protein_name": {
+            "value": "Beta-galactosidase"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "GUSB",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000169919",
+        "chromosome": "7",
+        "ncbi_description": "",
+        "uniprot_id": "P08236",
+        "protein_name": {
+            "value": "Beta-glucuronidase"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "GYG1",
+        "confidence_level": "2",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000163754",
+        "chromosome": "3",
+        "ncbi_description": "",
+        "uniprot_id": "P46976",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000312",
+                    "source": "HGNC",
+                    "id": "HGNC:4699"
+                }
+            ],
+            "value": "Glycogenin-1"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Glycogen storage disease"
+        ]
+    },
+    {
+        "gene_symbol": "HRAS",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000174775",
+        "chromosome": "11",
+        "ncbi_description": "",
+        "uniprot_id": "P01112",
+        "protein_name": {
+            "value": "GTPase HRas"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "JPH2",
+        "confidence_level": "2",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000149596",
+        "chromosome": "20",
+        "ncbi_description": "",
+        "uniprot_id": "Q9BR39",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "10891348"
+                }
+            ],
+            "value": "Junctophilin-2"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "KCNQ1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000053918",
+        "chromosome": "11",
+        "ncbi_description": "",
+        "uniprot_id": "P51787",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Potassium voltage-gated channel subfamily KQT member 1"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "KLF10",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "ensembl_id": "ENSG00000155090",
+        "chromosome": "8",
+        "ncbi_description": "",
+        "uniprot_id": "Q13118",
+        "protein_name": {
+            "value": "Krueppel-like factor 10"
+        },
+        "associated_diseases": []
+    },
+    {
+        "gene_symbol": "KLHL24",
+        "confidence_level": "2",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000114796",
+        "chromosome": "3",
+        "ncbi_description": "",
+        "uniprot_id": "Q6TFL4",
+        "protein_name": {
+            "value": "Kelch-like protein 24"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "LAMP2",
+        "confidence_level": "3",
+        "mode_of_inheritance": "X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)",
+        "ensembl_id": "ENSG00000005893",
+        "chromosome": "X",
+        "ncbi_description": "",
+        "uniprot_id": "P13473",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "3198605"
+                }
+            ],
+            "value": "Lysosome-associated membrane glycoprotein 2"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Glycogen storage disease"
+        ]
+    },
+    {
+        "gene_symbol": "LDB3",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000122367",
+        "chromosome": "10",
+        "ncbi_description": "",
+        "uniprot_id": "O75112",
+        "protein_name": {
+            "value": "LIM domain-binding protein 3"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "LMNA",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000160789",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "P02545",
+        "protein_name": {
+            "value": "Prelamin-A/C"
+        },
+        "associated_diseases": [
+            "Charcot-Marie-Tooth disease",
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "LZTR1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000099949",
+        "chromosome": "22",
+        "ncbi_description": "",
+        "uniprot_id": "Q8N653",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "7633402"
+                }
+            ],
+            "value": "Leucine-zipper-like transcriptional regulator 1"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MAP2K1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "ensembl_id": "ENSG00000169032",
+        "chromosome": "15",
+        "ncbi_description": "",
+        "uniprot_id": "Q02750",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Dual specificity mitogen-activated protein kinase kinase 1"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MAP2K2",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "ensembl_id": "ENSG00000126934",
+        "chromosome": "19",
+        "ncbi_description": "",
+        "uniprot_id": "P36507",
+        "protein_name": {
+            "value": "Dual specificity mitogen-activated protein kinase kinase 2"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MRPL3",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000114686",
+        "chromosome": "3",
+        "ncbi_description": "",
+        "uniprot_id": "P09001",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "25278503"
+                }
+            ],
+            "value": "Large ribosomal subunit protein uL3m"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "MT-TI",
+        "confidence_level": "2",
+        "mode_of_inheritance": "MITOCHONDRIAL",
+        "ensembl_id": "ENSG00000210100",
+        "chromosome": "MT",
+        "ncbi_description": ""
+    },
+    {
+        "gene_symbol": "MT-TL1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MITOCHONDRIAL",
+        "ensembl_id": "ENSG00000209082",
+        "chromosome": "MT",
+        "ncbi_description": ""
+    },
+    {
+        "gene_symbol": "MYBPC3",
+        "confidence_level": "3",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000134571",
+        "chromosome": "11",
+        "ncbi_description": "",
+        "uniprot_id": "Q14896",
+        "protein_name": {
+            "value": "Myosin-binding protein C, cardiac-type"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MYH6",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000197616",
+        "chromosome": "14",
+        "ncbi_description": "",
+        "uniprot_id": "P13533",
+        "protein_name": {
+            "value": "Myosin-6"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MYH7",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000092054",
+        "chromosome": "14",
+        "ncbi_description": "",
+        "uniprot_id": "P12883",
+        "protein_name": {
+            "value": "Myosin-7"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MYL2",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000111245",
+        "chromosome": "12",
+        "ncbi_description": "",
+        "uniprot_id": "P10916",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Myosin regulatory light chain 2, ventricular/cardiac muscle isoform"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MYL3",
+        "confidence_level": "3",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000160808",
+        "chromosome": "3",
+        "ncbi_description": "",
+        "uniprot_id": "P08590",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Myosin light chain 3"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MYLK2",
+        "confidence_level": "2",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000101306",
+        "chromosome": "20",
+        "ncbi_description": "",
+        "uniprot_id": "Q9H1R3",
+        "protein_name": {
+            "value": "Myosin light chain kinase 2, skeletal/cardiac muscle"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MYO6",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000196586",
+        "chromosome": "6",
+        "ncbi_description": "",
+        "uniprot_id": "Q9UM54",
+        "protein_name": {
+            "value": "Unconventional myosin-VI"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MYOM1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "ensembl_id": "ENSG00000101605",
+        "chromosome": "18",
+        "ncbi_description": "",
+        "uniprot_id": "P52179",
+        "protein_name": {
+            "value": "Myomesin-1"
+        },
+        "associated_diseases": []
+    },
+    {
+        "gene_symbol": "MYOZ2",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000172399",
+        "chromosome": "4",
+        "ncbi_description": "",
+        "uniprot_id": "Q9NPC6",
+        "protein_name": {
+            "value": "Myozenin-2"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "MYPN",
+        "confidence_level": "2",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000138347",
+        "chromosome": "10",
+        "ncbi_description": "",
+        "uniprot_id": "Q86TC9",
+        "protein_name": {
+            "value": "Myopalladin"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "NEXN",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000162614",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "Q0ZGT2",
+        "protein_name": {
+            "value": "Nexilin"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "NRAS",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000213281",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "P01111",
+        "protein_name": {
+            "value": "GTPase NRas"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "PDLIM3",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "ensembl_id": "ENSG00000154553",
+        "chromosome": "4",
+        "ncbi_description": "",
+        "uniprot_id": "Q53GG5",
+        "protein_name": {
+            "value": "PDZ and LIM domain protein 3"
+        },
+        "associated_diseases": []
+    },
+    {
+        "gene_symbol": "PLN",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000198523",
+        "chromosome": "6",
+        "ncbi_description": "",
+        "uniprot_id": "P26678",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "1828805"
+                },
+                {
+                    "evidenceCode": "ECO:0000312",
+                    "source": "HGNC",
+                    "id": "HGNC:9080"
+                }
+            ],
+            "value": "Phospholamban"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "PRKAG2",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000106617",
+        "chromosome": "7",
+        "ncbi_description": "",
+        "uniprot_id": "Q9UGJ0",
+        "protein_name": {
+            "value": "5'-AMP-activated protein kinase subunit gamma-2"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Glycogen storage disease"
+        ]
+    },
+    {
+        "gene_symbol": "PTPN11",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000179295",
+        "chromosome": "12",
+        "ncbi_description": "",
+        "uniprot_id": "Q06124",
+        "protein_name": {
+            "value": "Tyrosine-protein phosphatase non-receptor type 11"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "RAF1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000132155",
+        "chromosome": "3",
+        "ncbi_description": "",
+        "uniprot_id": "P04049",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "RAF proto-oncogene serine/threonine-protein kinase"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "RPS6KB1",
+        "confidence_level": "2",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown",
+        "ensembl_id": "ENSG00000108443",
+        "chromosome": "17",
+        "ncbi_description": "",
+        "uniprot_id": "P23443",
+        "protein_name": {
+            "value": "Ribosomal protein S6 kinase beta-1"
+        },
+        "associated_diseases": []
+    },
+    {
+        "gene_symbol": "SCO2",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000284194",
+        "chromosome": "22",
+        "ncbi_description": "",
+        "uniprot_id": "O43819",
+        "protein_name": {
+            "value": "Protein SCO2 homolog, mitochondrial"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "SHOC2",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000108061",
+        "chromosome": "10",
+        "ncbi_description": "",
+        "uniprot_id": "Q9UQ13",
+        "protein_name": {
+            "value": "Leucine-rich repeat protein SHOC-2"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "SLC25A3",
+        "confidence_level": "1",
+        "mode_of_inheritance": "Unknown",
+        "ensembl_id": "ENSG00000075415",
+        "chromosome": "12",
+        "ncbi_description": "",
+        "uniprot_id": "Q00325",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "29237729"
+                }
+            ],
+            "value": "Solute carrier family 25 member 3"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "SLC25A4",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000151729",
+        "chromosome": "4",
+        "ncbi_description": "",
+        "uniprot_id": "P12235",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "ADP/ATP translocase 1"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "SOS1",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000115904",
+        "chromosome": "2",
+        "ncbi_description": "",
+        "uniprot_id": "Q07889",
+        "protein_name": {
+            "value": "Son of sevenless homolog 1"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "SVIL",
+        "confidence_level": "0",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000197321",
+        "chromosome": "10",
+        "ncbi_description": "",
+        "uniprot_id": "O95425",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "9867483"
+                }
+            ],
+            "value": "Supervillin"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TBX20",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown",
+        "ensembl_id": "ENSG00000164532",
+        "chromosome": "7",
+        "ncbi_description": "",
+        "uniprot_id": "Q9UMR3",
+        "protein_name": {
+            "value": "T-box transcription factor TBX20"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TCAP",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000173991",
+        "chromosome": "17",
+        "ncbi_description": "",
+        "uniprot_id": "O15273",
+        "protein_name": {
+            "value": "Telethonin"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TMEM70",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000175606",
+        "chromosome": "8",
+        "ncbi_description": "",
+        "uniprot_id": "Q9BUB7",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Transmembrane protein 70, mitochondrial"
+        },
+        "associated_diseases": [
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "TNNC1",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000114854",
+        "chromosome": "3",
+        "ncbi_description": "",
+        "uniprot_id": "P63316",
+        "protein_name": {
+            "value": "Troponin C, slow skeletal and cardiac muscles"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TNNI3",
+        "confidence_level": "3",
+        "mode_of_inheritance": "BOTH monoallelic and biallelic, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000129991",
+        "chromosome": "19",
+        "ncbi_description": "",
+        "uniprot_id": "P19429",
+        "protein_name": {
+            "value": "Troponin I, cardiac muscle"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TNNT2",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000118194",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "P45379",
+        "protein_name": {
+            "value": "Troponin T, cardiac muscle"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TPM1",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000140416",
+        "chromosome": "15",
+        "ncbi_description": "",
+        "uniprot_id": "P09493",
+        "protein_name": {
+            "value": "Tropomyosin alpha-1 chain"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TRIM63",
+        "confidence_level": "3",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000158022",
+        "chromosome": "1",
+        "ncbi_description": "",
+        "uniprot_id": "Q969Q1",
+        "protein_name": {
+            "value": "E3 ubiquitin-protein ligase TRIM63"
+        },
+        "associated_diseases": []
+    },
+    {
+        "gene_symbol": "TSFM",
+        "confidence_level": "1",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000123297",
+        "chromosome": "12",
+        "ncbi_description": "",
+        "uniprot_id": "P43897",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000255",
+                    "source": "HAMAP-Rule",
+                    "id": "MF_03135"
+                }
+            ],
+            "value": "Elongation factor Ts, mitochondrial"
+        },
+        "associated_diseases": [
+            "Disease variant",
+            "Primary mitochondrial disease"
+        ]
+    },
+    {
+        "gene_symbol": "TTN",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000155657",
+        "chromosome": "2",
+        "ncbi_description": "",
+        "uniprot_id": "Q8WZ42",
+        "protein_name": {
+            "value": "Titin"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TTR",
+        "confidence_level": "3",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000118271",
+        "chromosome": "18",
+        "ncbi_description": "",
+        "uniprot_id": "P02766",
+        "protein_name": {
+            "value": "Transthyretin"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "TULP3",
+        "confidence_level": "2",
+        "mode_of_inheritance": "BIALLELIC, autosomal or pseudoautosomal",
+        "ensembl_id": "ENSG00000078246",
+        "chromosome": "12",
+        "ncbi_description": "",
+        "uniprot_id": "O75386",
+        "protein_name": {
+            "evidences": [
+                {
+                    "evidenceCode": "ECO:0000305"
+                }
+            ],
+            "value": "Tubby-related protein 3"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    },
+    {
+        "gene_symbol": "VCL",
+        "confidence_level": "1",
+        "mode_of_inheritance": "MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted",
+        "ensembl_id": "ENSG00000035403",
+        "chromosome": "10",
+        "ncbi_description": "",
+        "uniprot_id": "P18206",
+        "protein_name": {
+            "value": "Vinculin"
+        },
+        "associated_diseases": [
+            "Disease variant"
+        ]
+    }
+]

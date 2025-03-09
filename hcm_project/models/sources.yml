@@ -1,0 +1,28 @@
+version: 2
+
+sources:
+  - name: hcm_schema
+    database: hcm_db
+    schema: hcm_schema
+    tables:
+      - name: raw_genes
+        columns:
+          - name: id
+            tests:
+              - unique
+              - not_null
+          - name: gene_symbol
+            tests:
+              - not_null
+              - unique
+          - name: confidence_level
+            tests:
+              - not_null
+              - accepted_values:
+                  values: [0, 1, 2, 3]
+          - name: ensembl_id
+            tests:
+              - not_null
+          - name: uniprot_id
+            tests:
+              - not_null
